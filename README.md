@@ -1,0 +1,1 @@
+# Hibernate_framework_18_01_2025
